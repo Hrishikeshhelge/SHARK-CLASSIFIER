@@ -34,6 +34,6 @@ The task was to make the image classification model for any of your characters, 
 9. Jupyter notebook, Spyder as IDE.
 * All the steps required to execute the project have been mentioned in the .ipynb file.
 * ### WEB APP
-![ Alt text](name-of-gif-file. gif) / ! [](name-of-gif-file. gif)
+![](IMG.png)
 ### CREDITS
 Special thanks to Mr.Anuj Vyas as he has created this amazing project initially using a kaggle problem statement and uploaded with a wonderful explanation on his Github.
